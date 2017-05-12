@@ -21,7 +21,7 @@ do so as well. Caution is advised on the reliability of this advice, and we
 encourage stating one's doubts when explaining something.
 
 Our bot K5 offers features such as dictionary lookups. If not relevant to the
-conversation, use them in private messaging with the bot.
+conversation, use private messaging with the bot.
 
 Avoid flooding, listen to others, and remember we're here for Japanese!
 
