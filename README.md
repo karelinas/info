@@ -8,7 +8,7 @@ The members of ##japanese are a casual bunch, and we talk about a variety of
 subjects. Don't be afraid to interrupt with a question related to Japanese.
 
 Discussions related to Japanese and Japan have priority over others, which can
-continue in \##japanese-offtopic to accomodate everyone's needs.
+continue in \##japanese-offtopic to accommodate everyone's needs.
 
 Write Japanese with at least [kana](https://en.wikipedia.org/wiki/Kana) if you
 can.
