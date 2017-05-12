@@ -13,10 +13,10 @@ continue in \##japanese-offtopic to accomodate everyone's needs.
 Write Japanese with at least [kana](https://en.wikipedia.org/wiki/Kana) if you
 can.
 
-People will try to help you by fixing your sentences in Japanese or in
-English, explaining or pointing to relevant documentation. You are welcome to
-do so as well. Caution is advised on the reliability of this advice, and we
-encourage stating one's doubts when explaining something.
+People will try to help you by fixing your sentences in Japanese or in English,
+explaining or pointing to relevant documentation. You are welcome to do so as
+well. Caution is advised on the reliability of this advice, and we encourage
+stating one's doubts when explaining something.
 
 Our bot K5 offers features such as dictionary lookups. If not relevant to the
 conversation, use private messaging with the bot.
