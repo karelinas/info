@@ -3,9 +3,7 @@
 \##japanese on Freenode IRC is a channel where members can learn or practice
 their Japanese with natives and proficient learners.
 
-
 ## Channel basics
-
 The members of ##japanese are a casual bunch, and we talk about a variety of
 subjects. Don't be afraid to interrupt with a question related to Japanese.
 
@@ -25,11 +23,9 @@ conversation, use private messaging with the bot.
 
 Avoid flooding, listen to others, and remember we're here for Japanese!
 
-
 ## Encoding
 To display Japanese, your chat client must use UTF-8. We don't use ISO-2022-JP
 or Shift-JIS.
-
 
 ## Resources
 
