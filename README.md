@@ -52,4 +52,4 @@ or Shift-JIS.
 * [weblio.jp](http://www.weblio.jp/) - An online version of the Daijirin Japanese dictionary
 * [kakijun.jp](http://kakijun.jp/) - A kanji dictionary, very useful for calligraphy
 * [jisho.org](http://jisho.org/) - An online version of the JMDict Japanese glossary, JMnedict proper name database and KANJIDIC2 kanji database, Tatoeba example corpus and more
-* [tagainijisho](http://tagaini.net) - An offline version of the JMDict Japanese glossary and KANJIDIC2 kanji database
+* [tagainijisho](http://tagaini.net) - An offline version of the JMDict Japanese glossary, KANJIDIC2 kanji database, and KanjiVG stroke order database
