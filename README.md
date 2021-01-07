@@ -38,8 +38,8 @@ or Shift-JIS.
 * [Wikibooks Japanese](https://en.wikibooks.org/wiki/Japanese) - An incomplete but useful site for beginners
 * [Kim Allen's overview of Japanese](https://kimallen.sheepdogdesign.net/) - This site has no kanji but it does give a pretty good overview of grammar plus the author's personal experience of how she learned Japanese.
 * [Imabi](https://imabi.net/) - A thorough reference site from a guy with a broken car
-* [The Japanese Page](http://www.thejapanesepage.com/lessons) - A multiuser site that covers various aspects of Japanese
-* [JGram: The Japanese Grammar Database](http://jgram.org/) - A reference site for Japanese grammar
+* [The Japanese Page](http://www.thejapanesepage.com/lessons), [archive here](https://web.archive.org/web/20180407093739/http://www.thejapanesepage.com/lessons/) - A multiuser site that covers various aspects of Japanese
+* [JGram: The Japanese Grammar Database](http://jgram.org/), [archive here](https://web.archive.org/web/20201111220239/http://www.jgram.org/) - A reference site for Japanese grammar
 
 ### Interactive learning
 * [Foreign Numbers](https://foreignnumbers.com/) - Nifty tool to become more fluent in numbers
