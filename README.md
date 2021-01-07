@@ -48,7 +48,7 @@ or Shift-JIS.
 * [Lang-8](http://lang-8.com/) - A multilingual blogging and correction website. Native Japanese will correct your Japanese, while you can correct other user's writings of English or your native tongue.
 
 ### Dictionaries
-* [alc.co.jp](http://www.alc.co.jp/) - A great source of example sentences, English ⇄ Japanese
+* [eow.alc.co.jp](https://eow.alc.co.jp) - A great source of example sentences, English ⇄ Japanese
 * [weblio.jp](http://www.weblio.jp/) - An online version of the Daijirin Japanese dictionary
 * [kakijun.jp](http://kakijun.jp/) - A kanji dictionary, very useful for calligraphy
 * [jisho.org](http://jisho.org/) - An online version of the JMDict Japanese glossary, JMnedict proper name database and KANJIDIC2 kanji database, Tatoeba example corpus and more
