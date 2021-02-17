@@ -53,4 +53,4 @@ or Shift-JIS.
 * [kakijun.jp](https://kakijun.jp/) - A kanji dictionary, very useful for calligraphy
 * [jisho.org](https://jisho.org/) - An online version of the JMDict Japanese glossary, JMnedict proper name database and KANJIDIC2 kanji database, Tatoeba example corpus and more
 * [tagainijisho](https://tagaini.net) - An offline version of the JMDict Japanese glossary, KANJIDIC2 kanji database, and KanjiVG stroke order database
-* [yourei](https://yourei.jp/) - 世界最大の用例・例文検索エンジン
+* [yourei.jp](https://yourei.jp/) - 世界最大の用例・例文検索エンジン
