@@ -33,6 +33,7 @@ or Shift-JIS.
 * [An Introduction to Japanese](https://pomax.github.io/nrGrammar/) - A thorough write-up explaining many concepts
 * [Teach Yourself Japanese](http://www.sf.airnet.ne.jp/ts/japanese/) - Great site to learn kana and some Japanese basics
 * [Tae Kim's Guide to Japanese](http://www.guidetojapanese.org/) - This is an excellent website to learn a lot of Japanese grammar. However, you need to be comfortable reading kana.
+* [美文字人を目指すブログ](https://syoka-koyoblog.com/) - A structured blog showing in detail how to write Japanese characters impeccably. The explanations are in Japanese.
 
 ### Reference documentation
 * [Wikibooks Japanese](https://en.wikibooks.org/wiki/Japanese) - An incomplete but useful site for beginners
