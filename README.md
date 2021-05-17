@@ -32,7 +32,7 @@ or Shift-JIS.
 ### Guides
 * [An Introduction to Japanese](https://pomax.github.io/nrGrammar/) - A thorough write-up explaining many concepts
 * [Teach Yourself Japanese](http://www.sf.airnet.ne.jp/ts/japanese/) - A site to learn kana and some Japanese basics
-* [Tae Kim's Guide to Japanese](http://www.guidetojapanese.org/) - A site to learn a lot of Japanese grammar. You need to be comfortable reading kana.
+* [Tae Kim's Guide to Japanese](http://www.guidetojapanese.org/) - A site to learn European textbook Japanese grammar. You need to be comfortable reading kana.
 * [美文字人を目指すブログ](https://syoka-koyoblog.com/) - A structured blog showing in detail how to write Japanese characters. The explanations are in Japanese.
 
 ### Reference documentation
