@@ -31,9 +31,9 @@ or Shift-JIS.
 
 ### Guides
 * [An Introduction to Japanese](https://pomax.github.io/nrGrammar/) - A thorough write-up explaining many concepts
-* [Teach Yourself Japanese](http://www.sf.airnet.ne.jp/ts/japanese/) - Great site to learn kana and some Japanese basics
-* [Tae Kim's Guide to Japanese](http://www.guidetojapanese.org/) - This is an excellent website to learn a lot of Japanese grammar. However, you need to be comfortable reading kana.
-* [美文字人を目指すブログ](https://syoka-koyoblog.com/) - A structured blog showing in detail how to write Japanese characters impeccably. The explanations are in Japanese.
+* [Teach Yourself Japanese](http://www.sf.airnet.ne.jp/ts/japanese/) - A site to learn kana and some Japanese basics
+* [Tae Kim's Guide to Japanese](http://www.guidetojapanese.org/) - A site to learn a lot of Japanese grammar. You need to be comfortable reading kana.
+* [美文字人を目指すブログ](https://syoka-koyoblog.com/) - A structured blog showing in detail how to write Japanese characters. The explanations are in Japanese.
 
 ### Reference documentation
 * [Wikibooks Japanese](https://en.wikibooks.org/wiki/Japanese) - An incomplete but useful site for beginners
@@ -43,15 +43,15 @@ or Shift-JIS.
 * [JGram: The Japanese Grammar Database](http://jgram.org/), [archive here](https://web.archive.org/web/20201111220239/http://www.jgram.org/) - A reference site for Japanese grammar
 
 ### Interactive learning
-* [Foreign Numbers](https://foreignnumbers.com/) - Nifty tool to become more fluent in numbers
+* [Foreign Numbers](https://foreignnumbers.com/) - A tool to become more fluent in numbers
 * [JapaneseClass.jp](https://japaneseclass.jp/) - A web application to help you learn Japanese Language like playing RPG game, earn EXP, gain Level, and get Ranked.
 * [Learning Languages Through Video Games](http://www.lltvg.com/) - Annotated and translated game scripts
 * [Lang-8](https://lang-8.com/) - A multilingual blogging and correction website. Native Japanese will correct your Japanese, while you can correct other user's writings of English or your native tongue.
 
 ### Dictionaries
-* [eow.alc.co.jp](https://eow.alc.co.jp) - A great source of example sentences, English ⇄ Japanese
+* [eow.alc.co.jp](https://eow.alc.co.jp) - A source of example sentences, English ⇄ Japanese
 * [weblio.jp](https://www.weblio.jp/) - An online version of the Daijirin Japanese dictionary
-* [kakijun.jp](https://kakijun.jp/) - A kanji dictionary, very useful for calligraphy
+* [kakijun.jp](https://kakijun.jp/) - A kanji dictionary, useful for calligraphy
 * [jisho.org](https://jisho.org/) - An online version of the JMDict Japanese glossary, JMnedict proper name database and KANJIDIC2 kanji database, Tatoeba example corpus and more
 * [tagainijisho](https://tagaini.net) - An offline version of the JMDict Japanese glossary, KANJIDIC2 kanji database, and KanjiVG stroke order database
 * [yourei.jp](https://yourei.jp/) - 世界最大の用例・例文検索エンジン
