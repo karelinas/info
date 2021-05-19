@@ -1,5 +1,7 @@
 # ようこそ！ (´• ω •)ﾉ
 
+**NOTE: We're moving to Libera. Come join us at irc.libera.chat ##japanese.**
+
 \##japanese on Freenode IRC is a channel where members can learn or practice
 their Japanese with natives and proficient learners.
 
